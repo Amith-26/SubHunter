@@ -5,4 +5,4 @@ To be made/improved.
 1>. HighScore System.
 2>. Warship Upgrades.
 3>. Explosion Effects.
-4>. Enemy Swaning improvents.
+4>. Enemy improvments.
